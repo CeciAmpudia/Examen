@@ -1,0 +1,187 @@
+header {
+	background: #2E2E2E;
+	padding: 10px 0;
+	font-family: garamond;
+	font-size: 18px;
+}
+header a {
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+ul {
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+}
+.nav-header li{
+	display: inline;
+	margin-right: 15px;
+}
+.nav-header a:hover {
+	color: #FF0040;
+}
+h1 {
+	font-family: lucida sans unicode;
+	font-weight: 100;
+	display: inline;
+	padding-right: 10px
+}
+.gentleman {
+	font-family: arial black;
+}
+/*------------- SECCION UNO --------------*/
+body {
+	background: rgb(244, 244, 244);
+	font-family: open sans;
+	font-size: 14px;
+}
+h2,a {
+	font-family: georgia;
+}
+#gentleman {
+	padding: 50px 0;
+}
+.header {
+	width: 100%;
+}
+.text {
+	padding: 20px;
+}
+.boton {
+	width: 100px;
+	border-radius: 15px;
+	background: gray;
+	padding: 5px;
+	margin-top: 80px;
+}
+/*------------- SECCION DOS --------------*/
+#projects {
+	padding: 50px 0;
+}
+#projects img {
+	width: 100%;
+}
+.nav-projects li{
+	display: inline;
+	padding-right: 10px;
+}
+.nav-projects a:hover{
+	color: black;
+}
+.nav-projects ul {
+	float: left;
+}
+.more {
+	margin-left: 490px;
+	margin-top: 55px;
+}
+.fotos {
+	padding: 40px 0;
+}
+h3 {
+	padding: 10px 90px 0 0;
+	display: inline;
+}
+#projects p {
+	padding: 10px 0;
+}
+.quo {
+	font-size: 35px;
+}
+.grid {
+	float: right;
+	color: gray;
+	margin: 0 10px;
+}
+/*------------ SECCION TRES -------------*/
+#twitter {
+	padding: 50px 0;
+	font-size: 20px
+}
+#twitter a{
+	color: #FF0040;
+}
+.follow {
+	width: 70px;
+	font-size: 15px;
+	margin-left: 85px;
+	margin-top: inherit;
+	border-radius: 5px;
+}
+.twit {
+	font-size: 125px;
+	text-align: center;
+}
+.text2 {
+	padding-top: 30px;
+	font-style: italic;
+}
+/*------------- PIE DE PAGINA -----------*/
+footer p {
+	font-size: 14px;
+}
+.redes {
+	margin: 10px 0
+}
+.redes p {
+	font-size: 35px;
+	display: inline;
+	margin: 5px;
+}
+footer {
+	background: #2E2E2E;
+}
+hr {
+	opacity: 0.1;
+}
+footer .follow {
+	background: #FF0040;
+	border-radius: 2px;
+	padding: 3px;
+	width: 50px;
+	margin-left: 10px;
+}
+.tw-up {
+	display: inline;
+}
+.email {
+	background: #151515;
+	padding: 10px;
+	width: 200px;
+	border-radius: 5px
+}
+input {
+	background: transparent;
+	width: 120px;
+	border: transparent;
+	color: white;
+}
+.email>span {
+	margin-left: 10px;
+}
+.uno, .dos, .tres {
+	padding: 30px 0;
+}
+.uno {
+	line-height: 20px;
+}
+.number {
+	color: #FF0040;
+	font-size: 25px;
+	padding: 20px 0;
+}
+.tg {
+	color: #FF0040
+}
+.tw-a{
+	color: #FF0040;
+}
+.web a:hover {
+	color: #FF0040;
+}
+.tw-tx{
+	padding: 25px 0 0;
+}
